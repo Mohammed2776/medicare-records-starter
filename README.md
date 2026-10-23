@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MediCare Patient Records Manager — Student Starter
 
 **The business problem:** MediCare Clinic's reception exports a weekly
@@ -56,3 +57,7 @@ medicare-records-starter/
 - Add a `--department Cardiology` filter using `sys.argv`.
 - Write rejected rows to `reports/rejected.csv` with a `reason` column.
 - Swap `tabulate` for the `rich` library and add colour.
+=======
+# medicare-records-starter
+A Python-based Medicare patient records management project that validates and cleans CSV data, handles invalid records, generates clean JSON reports, and summarizes consultation revenue by department.
+>>>>>>> 9cd81043195f4aade127e7ab1045d5e7a0684be2
